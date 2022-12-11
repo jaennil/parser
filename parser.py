@@ -1,6 +1,5 @@
 import html2text
 from bs4 import BeautifulSoup
-import requests
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
