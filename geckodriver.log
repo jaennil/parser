@@ -1,0 +1,239 @@
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670719789004	geckodriver	INFO	Listening on 127.0.0.1:35983
+1670719789458	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej4y9bd"
+Gtk-Message: 03:49:49.472: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670719789868	Marionette	INFO	Marionette enabled
+1670719789876	Marionette	INFO	Listening on port 33239
+WebDriver BiDi listening on ws://127.0.0.1:36041
+Read port: 33239
+1670719790025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej4y9bd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36041/devtools/browser/f217f5c0-d2f4-43ef-81ab-35c0fb803546
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670719818823	Marionette	INFO	Stopped listening on port 33239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670719828313	geckodriver	INFO	Listening on 127.0.0.1:59507
+1670719828781	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevNSMFM"
+Gtk-Message: 03:50:28.795: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670719829180	Marionette	INFO	Marionette enabled
+1670719829182	Marionette	INFO	Listening on port 34835
+Read port: 34835
+WebDriver BiDi listening on ws://127.0.0.1:54745
+1670719829240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevNSMFM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54745/devtools/browser/fe0a7ec8-6886-4820-84b0-5ff7681d1872
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670719856065	geckodriver	INFO	Listening on 127.0.0.1:56395
+1670719856531	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev4q30H"
+Gtk-Message: 03:50:56.545: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670719856938	Marionette	INFO	Marionette enabled
+1670719856957	Marionette	INFO	Listening on port 32807
+WebDriver BiDi listening on ws://127.0.0.1:57609
+Read port: 32807
+1670719857113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev4q30H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57609/devtools/browser/52f82e72-3599-42c8-9aa5-268f3399267b
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670719868749	Marionette	INFO	Stopped listening on port 32807
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670719879586	Marionette	INFO	Stopped listening on port 34835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670720088834	geckodriver	INFO	Listening on 127.0.0.1:58335
+1670720089309	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqg4ruI"
+Gtk-Message: 03:54:49.323: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670720089727	Marionette	INFO	Marionette enabled
+1670720089729	Marionette	INFO	Listening on port 35755
+WebDriver BiDi listening on ws://127.0.0.1:50305
+Read port: 35755
+1670720089871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqg4ruI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50305/devtools/browser/3df960a0-1e62-4a03-9f59-4dfda4d9f00f
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670720139129	geckodriver	INFO	Listening on 127.0.0.1:53355
+1670720139593	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile89cR1T"
+Gtk-Message: 03:55:39.607: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670720139981	Marionette	INFO	Marionette enabled
+1670720139983	Marionette	INFO	Listening on port 43119
+WebDriver BiDi listening on ws://127.0.0.1:46875
+Read port: 43119
+1670720140154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile89cR1T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46875/devtools/browser/5a520b75-8653-4c40-a6d2-cf6d68b435dc
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670720144721	Marionette	INFO	Stopped listening on port 35755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670720186924	Marionette	INFO	Stopped listening on port 43119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670720411742	geckodriver	INFO	Listening on 127.0.0.1:56381
+1670720412218	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "39935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC34LII"
+*** You are running in headless mode.
+Gtk-Message: 04:00:12.231: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670720412406	Marionette	INFO	Marionette enabled
+1670720412408	Marionette	INFO	Listening on port 44767
+Read port: 44767
+WebDriver BiDi listening on ws://127.0.0.1:39935
+1670720412474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC34LII/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39935/devtools/browser/6c3ca5c5-2c40-45e7-8396-d2809c548675
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670720415210	Marionette	INFO	Stopped listening on port 44767
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670720513993	geckodriver	INFO	Listening on 127.0.0.1:47945
+1670720514456	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu17iA3"
+*** You are running in headless mode.
+Gtk-Message: 04:01:54.471: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670720514654	Marionette	INFO	Marionette enabled
+1670720514656	Marionette	INFO	Listening on port 40187
+Read port: 40187
+WebDriver BiDi listening on ws://127.0.0.1:54931
+1670720514704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu17iA3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54931/devtools/browser/3a47da45-34cb-4a68-9510-4c91fa345f2a
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670720516624	Marionette	INFO	Stopped listening on port 40187
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670720530840	geckodriver	INFO	Listening on 127.0.0.1:59863
+1670720531306	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "56167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDGvuOc"
+*** You are running in headless mode.
+Gtk-Message: 04:02:11.320: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670720531506	Marionette	INFO	Marionette enabled
+1670720531508	Marionette	INFO	Listening on port 34457
+WebDriver BiDi listening on ws://127.0.0.1:56167
+Read port: 34457
+1670720531685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDGvuOc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56167/devtools/browser/db601ab9-b8b1-4673-89db-eb5bb6f098b7
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670720534925	Marionette	INFO	Stopped listening on port 34457
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670720556445	geckodriver	INFO	Listening on 127.0.0.1:36513
+1670720556906	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "44301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXbMQFH"
+*** You are running in headless mode.
+Gtk-Message: 04:02:36.920: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670720557107	Marionette	INFO	Marionette enabled
+1670720557109	Marionette	INFO	Listening on port 35483
+WebDriver BiDi listening on ws://127.0.0.1:44301
+Read port: 35483
+1670720557287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXbMQFH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44301/devtools/browser/5d4d7200-093f-4670-9057-c68a9061d336
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670720563891	Marionette	INFO	Stopped listening on port 35483
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670721601070	geckodriver	INFO	Listening on 127.0.0.1:52909
+1670721601543	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "43463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3ZLZUn"
+*** You are running in headless mode.
+Gtk-Message: 04:20:01.557: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670721601729	Marionette	INFO	Marionette enabled
+1670721601731	Marionette	INFO	Listening on port 33555
+Read port: 33555
+WebDriver BiDi listening on ws://127.0.0.1:43463
+1670721601801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3ZLZUn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43463/devtools/browser/27f9b163-1749-452c-a9a7-fadd9591b85d
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670721606130	Marionette	INFO	Stopped listening on port 33555
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670721618889	geckodriver	INFO	Listening on 127.0.0.1:60361
+1670721619360	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "34437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9J2vez"
+*** You are running in headless mode.
+Gtk-Message: 04:20:19.373: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670721619547	Marionette	INFO	Marionette enabled
+1670721619549	Marionette	INFO	Listening on port 35325
+Read port: 35325
+WebDriver BiDi listening on ws://127.0.0.1:34437
+1670721619598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9J2vez/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34437/devtools/browser/343d42ed-b3f4-4434-8bfe-6e0cb4b88cae
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670721621144	Marionette	INFO	Stopped listening on port 35325
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670721728906	geckodriver	INFO	Listening on 127.0.0.1:60317
+1670721729379	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "49139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemsikIQ"
+*** You are running in headless mode.
+Gtk-Message: 04:22:09.392: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670721729562	Marionette	INFO	Marionette enabled
+1670721729564	Marionette	INFO	Listening on port 40669
+Read port: 40669
+WebDriver BiDi listening on ws://127.0.0.1:49139
+1670721729637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemsikIQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49139/devtools/browser/2d71be35-80d5-4448-873a-bbf9d61e29d0
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670721731469	Marionette	INFO	Stopped listening on port 40669
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670721783969	geckodriver	INFO	Listening on 127.0.0.1:51015
+1670721784442	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "59695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg4jfy2"
+*** You are running in headless mode.
+Gtk-Message: 04:23:04.455: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670721784625	Marionette	INFO	Marionette enabled
+1670721784627	Marionette	INFO	Listening on port 40049
+Read port: 40049
+WebDriver BiDi listening on ws://127.0.0.1:59695
+1670721784675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg4jfy2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59695/devtools/browser/d858673e-b60d-4205-85c4-ce5160998d88
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670721787714	Marionette	INFO	Stopped listening on port 40049
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1670721921180	geckodriver	INFO	Listening on 127.0.0.1:51809
+1670721921653	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "34505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezCWYFy"
+*** You are running in headless mode.
+Gtk-Message: 04:25:21.666: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1670721921838	Marionette	INFO	Marionette enabled
+1670721921840	Marionette	INFO	Listening on port 32951
+Read port: 32951
+WebDriver BiDi listening on ws://127.0.0.1:34505
+1670721921888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezCWYFy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34505/devtools/browser/4072ecfc-60e4-4c65-bdbe-9fc6b83e9c26
+JavaScript warning: https://sch2114uz.mskobr.ru/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670721924925	Marionette	INFO	Stopped listening on port 32951
