@@ -1,14 +1,26 @@
-from serpapi import GoogleSearch
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 
-API_KEY="fe3e1e6c843b7cd1f375a5ba0fc399a12cf7e594b0a3cb111d7bb90ab1724799"
-params = {
-    "engine": "google",
-    "q": "Школа 2114 О нас",
-    "api_key": API_KEY,
-}
 
-search = GoogleSearch(params)
-results = search.get_dict()
-
-for result in results["organic_results"]:
-    print(f"Title: {result['title']}\nLink: {result['link']}\n")
+def get_links(school_number, browser):
+    """get all links related to a school number from google search"""
+    url = f"https://www.google.com/search?q=Школа+{school_number}+о+нас"
+    browser.get(url)
+    html = browser.page_source
+    soup = BeautifulSoup(html, "html.parser")
+    search = soup.find("div", {"id": "search"})
+    if search is None:
+        print("error in get_links func. search div does not exist")
+        return []
+    links = search.find_all("a")
+    proper_links = []
+    for link in links:
+        href = link.get("href")
+        if not href:
+            continue
+        if not href.startswith("https"):
+            continue
+        if href not in proper_links:
+            proper_links.append(href)
+    return proper_links
