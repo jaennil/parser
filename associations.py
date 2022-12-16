@@ -40,8 +40,10 @@ def main():
         )
 
     browser.quit()
-    remove_common_words()
     with open("words.json", "w", encoding="utf-8") as file:
+        json.dump(categories, file, ensure_ascii=False, indent=4)
+    remove_common_words()
+    with open("words_removed.json", "w", encoding="utf-8") as file:
         json.dump(categories, file, ensure_ascii=False, indent=4)
 
     print(f"{categories['art']['words'] = }")
@@ -53,7 +55,7 @@ def remove_common_words():
     for category in categories:
         other_categories = [c for c in categories if c != category]
         for word_dict in categories[category]["words"]:
-            word = word_dict.keys()[0]
+            word = list(word_dict.keys())[0]
             for other_category in other_categories:
                 for index, other_word_dict in enumerate(
                     categories[other_category]["words"]
@@ -61,6 +63,23 @@ def remove_common_words():
                     if word in other_word_dict:
                         del categories[other_category]["words"][index]
                         break
+
+
+def remove_common_words2():
+    """remove word that exists in other categories2"""
+    for category in categories:
+        other_categories = [c for c in categories if c != category]
+        for word_dict in categories[category]["words"]:
+            word = list(word_dict.keys())[0]
+            if word == list(categories[other_categories[0]]["words"].keys())[0]:
+                ...
+            if word == list(categories[other_categories[1]]["words"].keys())[0]:
+                ...
+            if word == list(categories[other_categories[0]]["words"].keys())[0] and word == list(categories[other_categories[1]]["words"].keys())[0]:
+                ...
+
+
+:
 
 
 categories = {
