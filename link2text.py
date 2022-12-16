@@ -1,4 +1,5 @@
-import get_links
+import getlinks
+import associations
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -8,12 +9,13 @@ from selenium.webdriver.firefox.options import Options
 def main():
     browser = init_headless_browser()
     school_numbers = get_school_numbers()
+    categories = associations.main()
     for number in school_numbers:
-        links = get_links.get_links(number, browser)
+        links = getlinks.get_links(number)
         for link in links:
             text = get_page_text(link, browser)
-            print(f"{text = }")
-
+            for word in text.split():
+                ... # TODO!!!!!!!
 
 def get_school_numbers():
     result = []
