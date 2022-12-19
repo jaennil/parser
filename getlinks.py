@@ -3,6 +3,9 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 
+def main():
+    print(get_links(2114, amount=3))
+
 def init_headless_browser():
     """init browser"""
     options = Options()
@@ -11,7 +14,7 @@ def init_headless_browser():
     return browser
 
 
-def get_links(school_number, browser=None):
+def get_links(school_number, browser=None, amount=5):
     """get all links related to a school number from google search"""
     browser_not_passed = False
     if not browser:
@@ -39,4 +42,7 @@ def get_links(school_number, browser=None):
             proper_links.append(href)
     if browser_not_passed:
         browser.quit()
-    return proper_links
+    return proper_links[:amount]
+
+if __name__ == "__main__":
+    main()
