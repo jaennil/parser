@@ -15,7 +15,8 @@ def main():
         for link in links:
             text = get_page_text(link, browser)
             for word in text.split():
-                ... # TODO!!!!!!!
+                ...
+
 
 def get_school_numbers():
     result = []
